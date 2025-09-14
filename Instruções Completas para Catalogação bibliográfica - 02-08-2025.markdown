@@ -179,7 +179,7 @@ Formato: `[SOBRENOME][ANO][TT]`
 
 ## 9. Nível de Conteúdo Sexual (*Smutness*)
 
-### Escala:
+### Escala (escolha uma das opções abaixo):
 
 - *Clean*: Sem cenas de sexo ou insinuações (Spice/Steam: 0/5).
 - *Closed Door*: Insinuações ou menções, mas sexo fora das páginas (Spice/Steam: 1/5).
@@ -285,3 +285,4 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+

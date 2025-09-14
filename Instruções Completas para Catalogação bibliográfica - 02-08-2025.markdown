@@ -33,7 +33,7 @@ Inclua:
 
 ## 4. Gênero
 
-- **Gênero Primário**: Principal (e.g., Romance Contemporâneo, Fantasia).
+- **Gênero Primário**: Principal; escolha dentre as opções aquela que for mais adequada (e.g., Fantasy, Contemporary Romance, Historic Fiction, Self Growth, Urban Fantasy, Mystery, Poetry, Dark Romance, Romantic Drama, Non-Fiction, Children & Teen Fiction, Science Fiction, Literary Fiction, Business, Society & Thought, Dystopic, History & Politics, Thriller, Graphic Novels).
 - **Subgêneros**: Liste subgêneros relevantes (e.g., Rom-Com, New Adult).
 - **Justificativa**: Baseie-se em sinopses, resenhas ou Goodreads, citando fontes.
 
@@ -282,5 +282,6 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 - **Data**: Inclua a data atual ao criar suas fichas.
 - **Consistência**: Mantenha o formato das catalogações anteriores.
 - **Erros**: Corrija inconsistências (e.g., *Smutness* errado) sempre com base em fontes confiáveis.
+
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**

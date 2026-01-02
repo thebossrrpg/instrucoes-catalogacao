@@ -1,6 +1,6 @@
 # Instruções Completas para Catalogação de Livros
 
-Atualizado em: 2 de agosto de 2025, 21:00 –03
+Atualizado em: 1 de janeiro de 2026, 15:37 -03
 
 Estas instruções orientam a catalogação de livros, organizando informações bibliográficas, classificações, tropos literários, ambientação, gatilhos de conteúdo e disponibilidade em plataformas. Use fontes confiáveis (e.g., Goodreads, Amazon) e priorize a edição Kindle para número de páginas, quando disponível.
 
@@ -295,5 +295,6 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 
 

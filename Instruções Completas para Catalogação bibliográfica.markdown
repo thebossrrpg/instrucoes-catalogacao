@@ -243,47 +243,15 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 - **Classificação**: 1 a 5 estrelas, arredondando a média do Goodreads (e.g., 3.6–4.4 = 4 estrelas).
 - **Justificativa**: Cite a média, número de avaliações e comentários (elogios/críticas), com fontes.
 
-## 13. Disponibilidade em Plataformas
-- Separe em três tabelas:  
-  1. Plataformas para download (Kindle, Kobo, Libby [quando disponível], etc.)
-  2. Plataformas de audiolivro (Audible, Libby, BorrowBox, etc.)
-  3. Plataformas para leitura online/aplicativo (Libby, Internet Archive, Hoopla, etc.).
-- Inclua Libby e Internet Archive em todas as categorias pertinentes.
+## 13. Extração de IDs
 
-**Divida a análise conforme tipo de acesso (Libby aparece nas três, conforme o caso do livro/audiobook/online):**
+- Sempre que possível, registre nas catalogações:
+  - **ID do Goodreads**: Extraia o valor que aparece após "https://www.goodreads.com/book/show/" na URL da página do livro.
+  - **ID do StoryGraph**: Extraia o valor que aparece após "https://app.thestorygraph.com/books/" na URL da página do livro.
 
-### Plataformas que Permitem Download (Epub, PDF, Adobe Digital Editions, ou offline)
+## Data de Publicação
 
-| Plataforma | Disponível |
-| :-- | :-- |
-| Amazon Kindle | [✓/x] |
-| Google Livros (DRM) | [✓/x] |
-| Kobo | [✓/x] |
-| Libby | [✓/x] |
-| Internet Archive | [✓/x] |
-| Open Library | [✓/x] |
-
-### Plataformas de Audiobooks
-
-| Plataforma | Disponível |
-| :-- | :-- |
-| Audible | [✓/x] |
-| Libby | [✓/x] |
-| BorrowBox | [✓/x] |
-| Storytel | [✓/x] |
-
-### Plataformas de Leitura Online ou Apenas em Apps
-
-| Plataforma | Disponível |
-| :-- | :-- |
-| Libby | [✓/x] |
-| Hoopla | [✓/x] |
-| Skoob | [✓/x] |
-| Goodreads | [✓/x] |
-| Internet Archive | [✓/x] |
-| Google Livros (web) | [✓/x] |
-
-**Justificativa:** Confirme a disponibilidade em cada plataforma, citando fontes (e.g., Web IDs). Só registre o Internet Archive/Open Library/Google Livros na seção de leitura offline se for realmente permitido baixar o arquivo para leitura independente. Caso contrário, registre apenas na seção de leitura online.
+- Em todas as fichas, informe a **data completa de publicação da primeira edição do livro** (dia, mês e ano), priorizando fontes oficiais do Goodreads ou Amazon. Cite a fonte consultada.
 
 ## 14. Notas Adicionais
 
@@ -295,6 +263,7 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 
 
 

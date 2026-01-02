@@ -30,6 +30,12 @@ Inclua:
 - **Posição**: Número do livro na série (e.g., Livro 1 de *Duologia Out*).
 - **Justificativa**: Explique com base em sinopses ou resenhas, citando fontes.
 
+### 3.1 Diretriz para conjuntos e séries
+
+- Sempre que os livros pertencerem a um conjunto identificado (série, ciclo, sequência de novellas, universo compartilhado com numeração explícita), esse conjunto deve ser entendido como parte de um todo, independentemente de cada volume poder ser lido de forma independente.
+- O total de livros do conjunto deve ser indicado de forma clara na catalogação, usando a fórmula “Livro X de Y” e, quando aplicável, o rótulo apropriado (duologia, trilogia, tetralogia, pentalogia etc.).
+- Conjuntos fechados de 2, 3, 4, 5… obras devem ser nomeados explicitamente como duologia, trilogia, tetralogia, pentalogia etc., sempre que essa informação estiver disponível em fontes confiáveis (catálogos, site da autora, editora, Goodreads, StoryGraph etc.).
+- Compilações posteriores (omnibuses, coletâneas ou edições integradas que reúnem a série em um único volume) não alteram o total de livros primários do conjunto, mas devem ser registradas adicionalmente como “coletânea”, “edição integrada” ou equivalente
 
 ## 4. Gênero
 
@@ -75,6 +81,12 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 30. **British Regency**: Inglaterra do período regencial (1811–1820), com mansões aristocráticas, hierarquias sociais, intrigas familiares ou românticas, e estética histórica, como em romances de Jane Austen.
 31. **Workplace Romance**: Romance desenvolvido no ambiente de trabalho.
 32. **Historical Court Drama**: Palácios ou cortes históricas tomados por jogos de poder, intrigas, rituais, escândalos e disputas dinásticas que moldam tanto destinos privados quanto públicos.
+33. **Transit Hub Romance**: Narrativas em espaços de trânsito (aeroportos, estações de trem, rodoviárias, portos ou outros hubs de transporte), explorando sua natureza de conexão mais do que a cidade ao redor.
+34. **Single-Location Romance**: Narrativas praticamente em um único cenário físico principal (uma casa, resort, café, livraria, prédio específico), com poucas cenas fora dele, sem alterar o eixo central da trama.
+35. **Service-Centric Setting**: Narrativas em ambientes de prestação de serviços (lojas, cafés, hotéis, clínicas), onde atender clientes, oferecer suporte e lidar com reclamações molda a atmosfera.
+36. **In-Between Moments**: Narrativas situadas em períodos de espera, suspensão ou transição (a última semana antes da mudança, viagem importante, casamento), em que o foco recai entre um “antes” e um “depois”.
+37. **Road Trip**: Viagem itinerante com múltiplos locais, paradas significativas e transformação pessoal através do movimento contínuo, focada na jornada mais do que no destino.
+38. **STEM Setting**: Contexto profissional em ciência, tecnologia, engenharia ou matemática onde protagonistas trabalham em pesquisa, desenvolvimento técnico ou inovação.
 
 - **Justificativa**: Descreva o contexto (e.g., cidade, época) com base em fontes.
 
@@ -216,7 +228,7 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 - Doença e Hospitalização
 - Incesto
 - Luto e Perda
-- Negligência: Situações em que um personagem sofre ou perpetua negligência emocional, física ou social, como abandono ou falta de cuidado, podendo causar desconforto emocional.
+- Negligência
 - Perseguição e Confinamento
 - Saúde Mental e Trauma
 - Traição
@@ -237,8 +249,6 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
   2. Plataformas de audiolivro (Audible, Libby, BorrowBox, etc.)
   3. Plataformas para leitura online/aplicativo (Libby, Internet Archive, Hoopla, etc.).
 - Inclua Libby e Internet Archive em todas as categorias pertinentes.
-
-## 13. Disponibilidade em Plataformas
 
 **Divida a análise conforme tipo de acesso (Libby aparece nas três, conforme o caso do livro/audiobook/online):**
 
@@ -285,4 +295,5 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 

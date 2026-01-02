@@ -69,7 +69,7 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 18. **Noir**: Cenário sombrio e urbano com crime, detetives ou moral ambígua, em tons cinematográficos.
 19. **Post-Apocalyptic**: Mundo após um evento catastrófico, com cenários de destruição, sobrevivência ou reconstrução.
 20. **Religious Life**: Contexto religioso com igrejas, conventos ou práticas espirituais, com conflitos de fé.
-21. **Road Trip**: Viagem itinerante com estradas, paradas ou descobertas, focada na jornada.
+21. **Road Trip**: Viagem itinerante com múltiplos locais, paradas significativas e transformação pessoal através do movimento contínuo, focada na jornada mais do que no destino.
 22. **Royal Court**: Ambiente de monarquia com palácios, intrigas cortesãs ou cerimônias aristocráticas.
 23. **Small Town**: Cidade pequena com comunidade unida, dinâmicas locais ou isolamento.
 24. **Sports Romance**: Contexto esportivo com campos, competições ou rivalidades, com tom romântico.
@@ -85,8 +85,7 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 34. **Single-Location Romance**: Narrativas praticamente em um único cenário físico principal (uma casa, resort, café, livraria, prédio específico), com poucas cenas fora dele, sem alterar o eixo central da trama.
 35. **Service-Centric Setting**: Narrativas em ambientes de prestação de serviços (lojas, cafés, hotéis, clínicas), onde atender clientes, oferecer suporte e lidar com reclamações molda a atmosfera.
 36. **In-Between Moments**: Narrativas situadas em períodos de espera, suspensão ou transição (a última semana antes da mudança, viagem importante, casamento), em que o foco recai entre um “antes” e um “depois”.
-37. **Road Trip**: Viagem itinerante com múltiplos locais, paradas significativas e transformação pessoal através do movimento contínuo, focada na jornada mais do que no destino.
-38. **STEM Setting**: Contexto profissional em ciência, tecnologia, engenharia ou matemática onde protagonistas trabalham em pesquisa, desenvolvimento técnico ou inovação.
+37. **STEM Setting**: Contexto profissional em ciência, tecnologia, engenharia ou matemática onde protagonistas trabalham em pesquisa, desenvolvimento técnico ou inovação.
 
 - **Justificativa**: Descreva o contexto (e.g., cidade, época) com base em fontes.
 
@@ -263,6 +262,7 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 
 
 

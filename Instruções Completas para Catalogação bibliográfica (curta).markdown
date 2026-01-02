@@ -101,7 +101,7 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 ### 🎯 Estrutura CBC (Classificação Bibliográfica do Coutinho)
 
 Formato:
-[GÊNERO].[AUTOR].[FORMATO].[PERÍODO][.TRAD][ID]
+[GÊNERO].[AUTOR].[FORMATO].[PERÍODO].[ID][.TRAD]
 
 #### 1. Gênero Literário
 
@@ -147,20 +147,20 @@ Formato:
 | 21A | 2000–2024 |
 | 21B | 2025 em diante |
 
-#### 5. Tradução (Opcional)
-
-| Código | Quando usar |
-| :-- | :-- |
-| *(omitido)* | Livro no idioma original ou traduzido do inglês |
-| TR-XX | Se traduzido de idioma diferente do inglês (ex: TR-DE, TR-JP) |
-
-#### 6. Identificador Final
+#### 5. Identificador Final
 
 Formato: `[SOBRENOME][ANO][TT]`
 
 - `SOBRENOME`: Até 5 letras do sobrenome principal do autor
 - `ANO`: Publicação original
 - `TT`: Duas letras significativas do título (ignorando artigos)
+
+#### 6. Tradução (Opcional)
+
+| Código | Quando usar |
+| :-- | :-- |
+| *(omitido)* | Livro no idioma original ou traduzido do inglês |
+| TR-XX | Se traduzido de idioma diferente do inglês (ex: TR-DE, TR-JP) |
 
 
 ##### Exemplos:
@@ -263,6 +263,7 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 
 
 

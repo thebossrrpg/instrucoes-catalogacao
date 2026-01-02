@@ -1,6 +1,6 @@
 ﻿# Lista Unificada de Tropos Literários
 
-Atualizado em: 16 de julho de 2025, 09:27 AM -03
+Atualizado em: 01 de janeiro de 2026, 15:37 AM -03
 
 Esta lista contém 95 tropos literários, cada um com uma definição que reflete características narrativas específicas, mas aplicáveis a diferentes gêneros e ambientações, conforme as diretrizes de catalogação. A lista remove os tropos "Best Friend's Sibling" e "Best Friend's Child", substituindo-os por "Best Friend's Connection", e incorpora tropos viáveis identificados anteriormente.
 
@@ -99,3 +99,9 @@ Esta lista contém 95 tropos literários, cada um com uma definição que reflet
 93. **Werewolf**: Lobisomens como elementos centrais ou secundários.
 94. **Widow(er)**: Personagem viúvo/viúva enfrentando luto ou novos começos.
 95. **Witchcraft**: Bruxaria como elemento narrativo, mágico ou cultural.
+96. **Deadline Confession**: Personagem precisa confessar sentimentos ou segredos antes de um prazo inegociável (viagem, casamento, mudança), com tensão narrativa impulsionada pelo “relógio correndo”.
+97. **Emotional Scavenger Hunt**: Personagens seguem pistas/objetos relacionados a terceiros, mas cada passo força confronto com suas próprias emoções, gerando crescimento romântico sem mistério/crime
+98. **Proxy Love Lesson**: Personagens ajudam o romance de outros (amigos, estranhos), usando essa história externa como espelho para insights sobre seus próprios sentimentos e padrões amorosos.
+99. **Shotdown Cupid**: Personagem age como cupido para unir duas pessoas, mas se descobre apaixonado(a) por uma delas, transformando o papel de facilitador em conflito romântico próprio (culpa, ciúme, lealdade).
+100. **Adorkable Hero**: Herói masculino desajeitado ou socialmente awkward (babbling, timidez romântica), cuja autenticidade e vulnerabilidade o tornam irresistivelmente charmoso.
+101. **Bookish**: Personagem apaixonado por livros ou membro/parte do mundo literário (autor, leitor voraz, editor), com traços intelectuais/criativos moldando personalidade e arco romântico.

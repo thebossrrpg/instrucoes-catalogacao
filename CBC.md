@@ -45,21 +45,21 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 | 20B      | 1950–1999                       |
 | 21B      | 2025 em diante                  |
 
-## 5. Tradução (opcional)
-
-| Código    | Quando usar                                 |
-|-----------|---------------------------------------------|
-| TR-XX     | Se traduzido de idioma diferente do inglês  |
-| TR-DE     | Traduzido do alemão                         |
-| TR-JP     | Traduzido do japonês                        |
-
-## 6. Identificador Final
+## 5. Identificador Final
 
 **Formato:** SOBRENOMEANOTT
 
 - SOBRENOME: Até 5 letras do sobrenome principal do autor.
 - ANO: Ano de publicação original.
 - TT: Duas letras significativas do título, ignorando artigos.
+
+## 6. Tradução (opcional)
+
+| Código    | Quando usar                                 |
+|-----------|---------------------------------------------|
+| TR-XX     | Se traduzido de idioma diferente do inglês  |
+| TR-DE     | Traduzido do alemão                         |
+| TR-JP     | Traduzido do japonês                        |
 
 ---
 
@@ -72,6 +72,3 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 - “O Perfume” (Süskind): HOR.DE.LIN.20B.SUSK85PE.TR-DE
 
 ---
-
-Fonte: Instruções Completas para Catalogação bibliográfica - 02-08-2025.markdown[web:32]
-```

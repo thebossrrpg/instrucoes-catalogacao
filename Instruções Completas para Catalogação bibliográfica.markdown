@@ -87,6 +87,7 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 36. **In-Between Moments**: Narrativas situadas em períodos de espera, suspensão ou transição (a última semana antes da mudança, viagem importante, casamento), em que o foco recai entre um “antes” e um “depois”.
 37. **STEM Setting**: Contexto profissional em ciência, tecnologia, engenharia ou matemática onde protagonistas trabalham em pesquisa, desenvolvimento técnico ou inovação.
 38. **Estranged Homelands**: Exílio ou migração prolongada, causando perda de raízes, nostalgia e tensão identitária em território estranho.
+39. **Suppressed Magic Society**: Mundo em que a magia foi banida, extinta ou brutalmente suprimida por ações políticas, religiosas ou cataclísmicas, deixando apenas ecos, vestígios perigosos ou práticas clandestinas.
 
 - **Justificativa**: Descreva o contexto (e.g., cidade, época) com base em fontes.
 
@@ -295,6 +296,7 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 
 
 **Este arquivo está pronto para uso direto ou anexação em futuras conversas no Perplexity, dispensando o envio de listas ou instruções separadas.**
+
 
 
 

@@ -88,6 +88,8 @@ Use as ambientações abaixo, conferindo a adequação de contexto (temático, t
 37. **STEM Setting**: Contexto profissional em ciência, tecnologia, engenharia ou matemática onde protagonistas trabalham em pesquisa, desenvolvimento técnico ou inovação.
 38. **Estranged Homelands**: Exílio ou migração prolongada, causando perda de raízes, nostalgia e tensão identitária em território estranho.
 39. **Suppressed Magic Society**: Mundo em que a magia foi banida, extinta ou brutalmente suprimida por ações políticas, religiosas ou cataclísmicas, deixando apenas ecos, vestígios perigosos ou práticas clandestinas.
+40. **Slice of Life**: Narrativas centradas no cotidiano ordinário de personagens — rotinas, conversas domésticas, pequenos rituais e interações banais — sem evento catalisador grandioso, em que o peso dramático emerge do acúmulo de momentos comuns.
+41. **Ladies Who Lunch**: Narrativas em que mulheres adultas ou idosas se reúnem regularmente em contexto doméstico ou semi-público (chás, jantares, degustações) sob pretexto de sociabilidade, mas em que esses encontros são o palco real de intrigas, alianças, fofoca ou ação coletiva.
 
 - **Justificativa**: Descreva o contexto (e.g., cidade, época) com base em fontes.
 

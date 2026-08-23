@@ -231,6 +231,32 @@ Utilize os alertas abaixo para sinalizar gatilhos importantes, sempre com justif
 - Violência Infantil
 - Violência Sexual
 
+### Protocolo de confirmação
+
+Não presuma alertas de gatilho. Todo alerta registrado deve ser confirmado por fontes consultadas.
+
+1. Consulte, nesta ordem:
+   - Site oficial da autora, editora ou selo.
+   - Avisos no início/fim do e-book, nota da autora ou amostra oficial.
+   - StoryGraph e Romance.io.
+   - Trigger Warning Database e Book Trigger Warnings, quando houver cadastro.
+
+2. Registre o alerta como **confirmado** somente se:
+   - constar em fonte oficial; ou
+   - aparecer de forma consistente em pelo menos duas fontes comunitárias independentes.
+
+3. O StoryGraph pode registrar intensidade do conteúdo como *minor*, *moderate* ou *graphic*, bem como indicar se o alerta é aprovado pela autoria. Preserve essa qualificação quando ela estiver disponível.
+
+4. Não converta premissa, gênero, tropo, classificação etária, nível de *smutness* ou comentário isolado em alerta de gatilho.
+
+5. Quando nenhuma fonte confirmar um alerta:
+   - omita-o, se o campo não for obrigatório;
+   - use “não localizado” somente se o campo for obrigatório.
+
+6. Diferencie sempre:
+   - **Confirmado:** consta de fonte oficial ou de duas fontes comunitárias independentes;
+   - **Não localizado:** nenhuma fonte consultada confirmou o dado;
+   - **Não registrar:** não há evidência suficiente.
 
 ## 12. Classificação em Estrelas
 

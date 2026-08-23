@@ -26,16 +26,7 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 | LUSO     | Países Lusófonos      |
 | INT      | Internacional         |
 
-## 3. Formato Narrativo
-
-| Código   | Significado  |
-|----------|-------------|
-| LIN      | Linear      |
-| NLIN     | Não-linear  |
-| EPI      | Epistolar   |
-| EXP      | Experimental|
-
-## 4. Período de Publicação
+## 3. Período de Publicação
 
 | Código   | Intervalo de datas              |
 |----------|---------------------------------|
@@ -45,7 +36,7 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 | 20B      | 1950–1999                       |
 | 21B      | 2025 em diante                  |
 
-## 5. Identificador Final
+## 4. Identificador Final
 
 **Formato:** SOBRENOMEANOTT
 
@@ -53,7 +44,7 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 - ANO: Ano de publicação original.
 - TT: Duas letras significativas do título, ignorando artigos.
 
-## 6. Tradução (opcional)
+## 5. Tradução (opcional)
 
 | Código    | Quando usar                                 |
 |-----------|---------------------------------------------|
@@ -65,10 +56,10 @@ Este sistema organiza a catalogação através de códigos alfanuméricos, combi
 
 ## Exemplos Práticos
 
-- “Grande Sertão: Veredas”: ROM.BR.NLIN.20B.ROSA56GR
-- “1984” (George Orwell): CF.UK.LIN.20A.ORWE49NI
-- “O Nome do Vento”: FAN.USA.LIN.21A.ROTH07NO
-- “Noruwei no Mori” (Murakami): ROM.JP.LIN.20B.MURAK87NO.TR-JP
-- “O Perfume” (Süskind): HOR.DE.LIN.20B.SUSK85PE.TR-DE
+- “Grande Sertão: Veredas”: ROM.BR.20B.ROSA56GR
+- “1984” (George Orwell): CF.UK.20A.ORWE49NI
+- “O Nome do Vento”: FAN.USA.21A.ROTH07NO
+- “Noruwei no Mori” (Murakami): ROM.JP.20B.MURAK87NO.TR-JP
+- “O Perfume” (Süskind): HOR.DE.20B.SUSK85PE.TR-DE
 
 ---

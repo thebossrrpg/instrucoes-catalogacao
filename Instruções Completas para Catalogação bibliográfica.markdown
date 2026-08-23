@@ -129,17 +129,7 @@ Formato:
 | AUS | Austrália |
 | INT | Internacional |
 
-#### 3. Formato Narrativo
-
-| Código | Significado |
-| :-- | :-- |
-| LIN | Linear |
-| NLIN | Não-linear |
-| EPI | Epistolar |
-| MULT | Múltiplas perspectivas |
-| EXP | Experimental |
-
-#### 4. Período de Publicação
+#### 3. Período de Publicação
 
 | Código | Intervalo |
 | :-- | :-- |
@@ -150,14 +140,14 @@ Formato:
 | 21A | 2000–2024 |
 | 21B | 2025 em diante |
 
-#### 5. Tradução (Opcional)
+#### 4. Tradução (Opcional)
 
 | Código | Quando usar |
 | :-- | :-- |
 | *(omitido)* | Livro no idioma original ou traduzido do inglês |
 | TR-XX | Se traduzido de idioma diferente do inglês (ex: TR-DE, TR-JP) |
 
-#### 6. Identificador Final
+#### 5. Identificador Final
 
 Formato: `[SOBRENOME][ANO][TT]`
 
@@ -170,12 +160,12 @@ Formato: `[SOBRENOME][ANO][TT]`
 
 | Título | Código CBC |
 | :-- | :-- |
-| Grande Sertão: Veredas | ROM.BR.NLIN.20B.ROSA56GR |
-| 1984 (George Orwell) | CF.UK.LIN.20A.ORWE49NI |
-| O Nome do Vento | FAN.USA.LIN.21A.ROTH07NO |
-| O Jogo do Amor Ódio | ROM.AUS.LIN.21A.THOR16HA |
-| O Perfume (P Süskind) | HOR.DE.LIN.20B.SUSK85PE.TR-DE |
-| Noruwei no Mori (Murakami) | ROM.JP.LIN.20B.MURAK87NO.TR-JP |
+| Grande Sertão: Veredas | ROM.BR.20B.ROSA56GR |
+| 1984 (George Orwell) | CF.UK.20A.ORWE49NI |
+| O Nome do Vento | FAN.USA.21A.ROTH07NO |
+| O Jogo do Amor Ódio | ROM.AUS.21A.THOR16HA |
+| O Perfume (P Süskind) | HOR.DE.20B.SUSK85PE.TR-DE |
+| Noruwei no Mori (Murakami) | ROM.JP.20B.MURAK87NO.TR-JP |
 
 ## 7. Número de Páginas
 

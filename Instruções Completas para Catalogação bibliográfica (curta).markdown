@@ -1,6 +1,6 @@
 # Instruções Completas para Catalogação de Livros
 
-Atualizado em: 1 de janeiro de 2026, 15:37 -03
+Atualizado em: 23 de agosto de 2026, 12:20 -03
 
 Estas instruções orientam a catalogação de livros, organizando informações bibliográficas, classificações, tropos literários, ambientação, gatilhos de conteúdo e disponibilidade em plataformas. Use fontes confiáveis (e.g., Goodreads, Amazon) e priorize a edição Kindle para número de páginas, quando disponível.
 
@@ -14,6 +14,7 @@ Estas instruções orientam a catalogação de livros, organizando informações
 Inclua:
 
 - **Autor**: Nome completo.
+- **Coautoria**: Quando houver duas ou mais pessoas autoras, registre os nomes em ordem alfabética pelo sobrenome, independentemente da ordem apresentada pelas fontes ou pela edição.
 - **ISBN/ASIN**: ISBN-13 (paperback) e ASIN (Kindle), se disponíveis.
 - **Editora**:
     - Brasil: Indique se há edição em português ou apenas importada.

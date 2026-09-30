@@ -110,5 +110,5 @@ Formato: `[SOBRENOME][ANO][TT]`
 
 Versão: 3.1  
 Atualizado em: 29 de setembro de 2026  
-Curador: Guilherme Coutinho
+Curador: Guilherme Coutinho   
 Alterações na versão 3.1: Inclusão da regra para identidades hifenizadas/dualidade cultural na seção de Origem do Autor.
